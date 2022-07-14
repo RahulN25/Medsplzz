@@ -50,7 +50,3 @@ There are various pages as some of them are -
 >Contact Us Section
 
 ![This is an image](/screenshots/contact.png)
-
-
-
-
