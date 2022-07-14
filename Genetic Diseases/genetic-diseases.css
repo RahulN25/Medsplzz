@@ -1,0 +1,157 @@
+html,body{
+	background-color: #1F1F1F;
+	color: white;
+}
+
+/*------Logo------*/
+.navbar-brand img{
+	width: 23%;
+	height: 23%;
+	border: none;
+}
+
+.navbar-brand strong{
+	font-size: 1.47em;
+}
+
+a,
+a:hover
+a:focus{
+	color: inherit;
+	text-decoration: none;
+	transition: all 0.3s;
+}
+
+/*------Sidebar------*/
+.wrapper{
+    position: fixed;
+    max-height: calc(100vh - 9rem);
+    overflow-y: auto;
+    top: 0;
+	z-index: 1;
+	display: flex;
+	text-decoration: none;
+	transition: all 0.3s;
+	background: #323232;
+}
+
+#sidebar{
+	min-width: 250px;
+	max-width: 250px;
+	color: #fff;
+	transition: all 0.3s;
+}
+
+#sidebar.active{
+	margin-left: 250px;
+}
+
+#sidebar .sidebar-header{
+	padding: 20px;
+}
+
+#sidebar ul.components{
+	padding: 20px 0;
+	border-bottom: 1px solid #47748b;
+}
+
+#sidebar ul p{
+	color: #fff;
+	padding: 10px;
+}
+
+#sidebar ul li a{
+	padding: 10px;
+	font-size: 1.1em;
+	display: block;
+	color: white;
+}
+
+#sidebar ul li a:hover{
+	color: aqua;
+}
+
+a[data-toggle="collapse"]{
+	position: relative;
+}
+
+.dropdown-toggle::after{
+	display: block;
+	position: absolute;
+	top: 50%;
+	right: 20%;
+	transform: translateY(-50%);
+}
+
+ul ul a{
+	font-size: 1.1em !important;
+	padding-left: 30px !important;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"]{
+	color: #fff;
+}
+
+#content{
+	width: 100%;
+	padding: 20px;
+	transition: all 0.3s;
+}
+
+.btn-btn-info{
+	background-color: aqua;
+}
+
+
+.carousel-inner img{
+	width: 100%;
+	height: 100%;
+}
+
+/*------Hereditary Disease Heading------*/
+.display-4{
+	color: white;
+	padding-bottom: 12px;
+	text-shadow: 1px 1px 20px yellow;
+	text-decoration-line: underline;
+	font-weight: normal;;
+}
+
+/*------Hereditary Disease Wallpaper------*/
+.col-lg-12{
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	padding-top: 4rem;
+}
+
+/*------Hereditary Disease Information------*/
+h2{
+	color: #900002;
+	text-shadow: 1px 0.5px 1px black;
+}
+
+.padding {
+	padding: 2rem;
+}
+
+/*------Hereditary diseases list------*/
+h3{
+	padding-top: 1rem;
+	color:#00FF93;
+	text-shadow: 1px 0.5px 1px black;
+}
+h4{
+	padding-top: 1rem;
+}
+.my-4{
+	border-color: black;
+	border-width: 3px;
+}
+
+img{
+	border: 3px solid aqua;
+}
+
+
