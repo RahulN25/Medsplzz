@@ -23,32 +23,32 @@ Each Diseases page contains
 
 There are various pages as some of them are - 
 
-*- Homepage*
+>Homepage
 
 ![This is an image](/screenshots/homepage.png)
 
-*- Allopathy Medicines Page*
+- Allopathy Medicines Page
 
 
 ![This is an image](/screenshots/allopathy.png)
 
 
-*- Genetic Diseases Page*
+- Genetic Diseases Page
 
 ![This is an image](/screenshots/genetic-diseases.png)
 
 
-*- Registration Page*
+- Registration Page
 
 ![This is an image](/screenshots/registration.png)
 
 
-*- Login Page *
+- Login Page 
 
 ![This is an image](/screenshots/login.png)
 
 
-*- Contact Us Section* 
+- Contact Us Section
 
 ![This is an image](/screenshots/contact.png)
 
