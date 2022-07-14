@@ -15,8 +15,8 @@ Classified Diseases into 4 types as
 4) Psychological Disorders
 
 Each Diseases page contains
-# Sypmtoms
-# Causes
-# Prevention
-# Diagnosis
-# Treatment
+Sypmtoms
+Causes
+Prevention
+Diagnosis
+Treatment
