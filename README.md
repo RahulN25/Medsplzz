@@ -21,6 +21,6 @@ Each Diseases page contains
 - Diagnosis
 - Treatment
 
-![This is an image]()
+![This is an image](/screenshots/login.png)
 
 
