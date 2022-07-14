@@ -21,6 +21,24 @@ Each Diseases page contains
 - Diagnosis
 - Treatment
 
+There are various pages as some of them are - 
+
+- Homepage
+![This is an image](/screenshots/homepage.png)
+
+- Allopathy Medicines Page
+![This is an image](/screenshots/allopathy.png)
+
+- Genetic Diseases Page
+![This is an image](/screenshots/genetic.png)
+
+- Registration Page
+![This is an image](/screenshots/registration.png)
+
+- Login Page 
 ![This is an image](/screenshots/login.png)
+
+- Contact Us Section 
+![This is an image](/screenshots/contact.png)
 
 
