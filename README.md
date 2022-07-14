@@ -1,5 +1,5 @@
 # Medsplzz
-** Medsplzz is an Informative website which provides you with detailed and accurate knowledge about the Medicines and Diseases. **
+**Medsplzz is an Informative website which provides you with detailed and accurate knowledge about the Medicines and Diseases.**
 
 Medicines
 We divided the medicines in three sections such as Allopathy, Homeopathy
@@ -27,13 +27,13 @@ There are various pages as some of them are -
 
 ![This is an image](/screenshots/homepage.png)
 
-- Allopathy Medicines Page
+>Allopathy Medicines Page
 
 
 ![This is an image](/screenshots/allopathy.png)
 
 
-- Genetic Diseases Page
+>Genetic Diseases Page
 
 ![This is an image](/screenshots/genetic-diseases.png)
 
@@ -43,12 +43,12 @@ There are various pages as some of them are -
 ![This is an image](/screenshots/registration.png)
 
 
-- Login Page 
+>Login Page 
 
 ![This is an image](/screenshots/login.png)
 
 
-- Contact Us Section
+>Contact Us Section
 
 ![This is an image](/screenshots/contact.png)
 
