@@ -20,3 +20,7 @@ Each Diseases page contains
 - Prevention
 - Diagnosis
 - Treatment
+
+![This is an image]()
+
+
