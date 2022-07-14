@@ -13,7 +13,7 @@ medicines for Common illness, diabetes, blood pressure and heart diseases
 3) Genetic Diseases
 4) Psychological Disorders
 
-Each Diseases page contains
+### Each Diseases page contains
 - Sypmtoms
 - Causes
 - Prevention
